@@ -1,8 +1,14 @@
 .masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url('imagenes/intro-brutal.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('imagenes/intro-brutal.png');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
+.nav-link {
+    color: #FFFFFF;
+}
+
