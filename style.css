@@ -9,6 +9,15 @@
 }
 
 .nav-link {
+    /*distancia referente arriba*/
+    margin-top: 5px;
+    /*Color de letras*/
     color: #FFFFFF;
 }
 
+.fondo:hover {
+    /*Fondo*/
+    background-color: #c8ff00;
+    /*Color de letras*/
+    color: #000000;
+}
