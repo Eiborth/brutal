@@ -21,3 +21,26 @@
     /*Color de letras*/
     color: #000000;
 }
+
+.electrolize {
+
+    font-family: Electrolize;
+}
+
+.distancia-derecha {
+    margin-right: 40px;
+
+}
+
+.letra-grande {
+    font-size: 70px;
+}
+
+.letra-mediana {
+    font-size: 25px;
+}
+
+.color-brutal {
+    color: #c8ff00;
+}
+
