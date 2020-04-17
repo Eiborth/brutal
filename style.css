@@ -44,21 +44,27 @@
     color: #c8ff00;
 }
 
-.fondo-negro{
+.fondo-negro {
 
-     background-color: #000000;
+    background-color: #000000;
 }
 
-.letra-blanca{
+.letra-blanca {
     /*Color de letras*/
     color: #ffffff;
 }
 
-.letra-verde{
+.letra-verde {
     /*Color de letras*/
     color: #c8ff00;
 }
 
-.texto-justificado{
+.texto-justificado {
     text-align: justify;
+}
+
+/*Imagenes responsivas*/
+img {
+    width: 100%;
+    max-width: 600px;
 }
